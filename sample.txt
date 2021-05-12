@@ -1,1 +1,2 @@
-This is short sample text edited on the computer.
+This is short sample text edited twice
+
